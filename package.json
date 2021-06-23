@@ -4,6 +4,7 @@
 	"description": "A web app I made while leraning how to make a web app",
 	"keywords": ["freecodecamp","web app", "Learn development"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
